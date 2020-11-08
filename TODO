@@ -1,0 +1,1 @@
+[*] Check why product can't be deleted in product controller while "isAuth" middleware is there
